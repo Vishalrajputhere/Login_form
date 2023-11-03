@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Login_form/static/css/main.6d1f63da.chunk.css",
+    "main.js": "/Login_form/static/js/main.28153ec7.chunk.js",
+    "main.js.map": "/Login_form/static/js/main.28153ec7.chunk.js.map",
+    "runtime~main.js": "/Login_form/static/js/runtime~main.6f375d48.js",
+    "runtime~main.js.map": "/Login_form/static/js/runtime~main.6f375d48.js.map",
+    "static/js/2.6e939aa1.chunk.js": "/Login_form/static/js/2.6e939aa1.chunk.js",
+    "static/js/2.6e939aa1.chunk.js.map": "/Login_form/static/js/2.6e939aa1.chunk.js.map",
+    "index.html": "/Login_form/index.html",
+    "precache-manifest.39a30fcd42be1b3c2eb4bcaa8c8f7664.js": "/Login_form/precache-manifest.39a30fcd42be1b3c2eb4bcaa8c8f7664.js",
+    "service-worker.js": "/Login_form/service-worker.js",
+    "static/css/main.6d1f63da.chunk.css.map": "/Login_form/static/css/main.6d1f63da.chunk.css.map"
+  }
+}
